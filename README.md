@@ -13,7 +13,7 @@ Key Features:
 >>Visualization**: Displays classification results through a scatter plot, allowing for visual interpretation of model performance.
 
 (1)Clone the repository:
-git clone https://github.com/Naga Raghuram (your-username)/cat-dog-classification.git
+git clone https://github.com/NagaRaghuram (your-username)/cat-dog-classification.git
 cd cat-dog-classification
 (2)Install the required libraries:
 pip install numpy pandas scikit-learn matplotlib cv os tensorflow keras 
